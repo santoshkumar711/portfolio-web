@@ -31,11 +31,11 @@ const Certificates = () => {
       image: "/Postgresql.jpg"
     },
     {
-      title: "PostgreSQL :Become an SQL developer",
-      org: "Simplilearn | Skillup",
-      date: "24-08-2025",
-      logo: "/Postgresql.jpg",
-      image: "/Postgresql.jpg"
+      title: "Mobile App Development",
+      org: "Techstern Solution",
+      date: "26-08-2024 To 30-11-2024",
+      logo: "/App-Developer.jpg",
+      image: "/App-Developer.jpg"
     }
   ];
 

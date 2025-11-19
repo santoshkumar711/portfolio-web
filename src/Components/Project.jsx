@@ -22,7 +22,7 @@ const Project = () => {
       >
 
         <div className="card" style={{ width: "30rem", borderRadius: "20px", overflow: "hidden" }}>
-          <img src="To-Do.jpg" className="card-img-top" alt="..." />
+          <img src="https://imageio.forbes.com/specials-images/dam/imageserve/1092571024/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" className="card-img-top" alt="..." />
           <div className="card-body" style={{ backgroundColor: "black" }}>
             <h5 className="card-title" style={{ color: "white" }}>To-Do-List</h5>
             <p className="card-text" style={{ color: "white" }}>
@@ -47,7 +47,7 @@ const Project = () => {
         </div>
 
         <div className="card" style={{ width: "30rem", borderRadius: "20px", overflow: "hidden" }}>
-          <img src="tic-tac.jpg" className="card-img-top" style={{ height: "265px" }} alt="..." />
+          <img src="https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/d07c1db617a36898b5e8c71013d228d11003eb36d7150b7abfe988fe097c7d66/tic-tac-toe-3.png" className="card-img-top" style={{ height: "265px" }} alt="..." />
           <div className="card-body" style={{ backgroundColor: "black" }}>
             <h5 className="card-title" style={{ color: "white" }}>Tic-Tac-Toe Game</h5>
             <p className="card-text" style={{ color: "white" }}>
@@ -71,7 +71,7 @@ const Project = () => {
           </div>
         </div>
         <div className="card" style={{ width: "30rem", borderRadius: "20px", overflow: "hidden" }}>
-          <img src="Sign-Up-form.png" className="card-img-top" style={{ height: "265px" }} alt="..." />
+          <img src="https://img.freepik.com/free-vector/illustraion-account-login-template_53876-37548.jpg?semt=ais_hybrid&w=740&q=80" className="card-img-top" style={{ height: "265px" }} alt="..." />
           <div className="card-body" style={{ backgroundColor: "black" }}>
             <h5 className="card-title" style={{ color: "white" }}>Sign-Up-Form</h5>
             <p className="card-text" style={{ color: "white" }}>

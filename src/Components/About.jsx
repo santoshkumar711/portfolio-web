@@ -58,7 +58,7 @@ const About = () => {
             <div class="row row-cols-1 row-cols-md-3 g-4">
                 <div class="col">
                     <div class="card h-100" style={{backgroundColor:"black"}}>
-                        <img src="sai nath university.png" class="small-edu-img" alt="..."/>
+                        <img src="https://i.ytimg.com/vi/oLQYQ70Uq4Q/sddefault.jpg" class="small-edu-img" alt="..."/>
                         <div class="card-body">
                             <h5 class="card-title" style={{color: "white"}}>Sai Nath University Ranchi Jharkhand </h5>
                             <p class="card-text" style={{color:"white"}}>B.C.A - 8.5 CGPA</p>
@@ -68,7 +68,7 @@ const About = () => {
                 </div>
                 <div class="col">
                     <div class="card h-100" style={{backgroundColor:"black"}}>
-                        <img src="+2 high school.jpg" class="card-edu-img" alt="..."/>
+                        <img src="/school (1).jpg" class="card-edu-img"alt="..."/>
                         <div class="card-body">
                             <h5 class="card-title" style={{color:"white"}}>Plus Two High School Atka</h5>
                             <p class="card-text" style={{color: "white"}}>XII - PCM - 85.8</p>
@@ -78,7 +78,7 @@ const About = () => {
                 </div>
                 <div class="col">
                     <div class="card h-100" style={{backgroundColor:"black"}}>
-                        <img src="+2 high school.jpg" class="card-edu-img" alt="..."/>
+                        <img src="/school (1).jpg" class="card-edu-img" alt="..."/>
                         <div class="card-body">
                             <h5 class="card-title " style={{color:"white"}}>Plus Two High School Atka</h5>
                             <p class="card-text" style={{color: "white"}}>X - 82%</p>
